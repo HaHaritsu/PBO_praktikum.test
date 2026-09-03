@@ -11,7 +11,7 @@ package com.mycompany.pbo_praktikum.test;
 public class PBO_praktikumTest {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Bruh");
         
     }
 }
